@@ -1,0 +1,335 @@
+[
+  {
+    "ekatte": "00357",
+    "t_v_m": "гр.",
+    "name": "Нови Искър",
+    "raion": "68134-21",
+    "kind": 1,
+    "document": 2004,
+    "name_en": "Novi Iskar"
+  },
+  {
+    "ekatte": "02511",
+    "t_v_m": "с.",
+    "name": "Балша",
+    "raion": "68134-21",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Balsha"
+  },
+  {
+    "ekatte": "02659",
+    "t_v_m": "гр.",
+    "name": "Банкя",
+    "raion": "68134-24",
+    "kind": 1,
+    "document": 2004,
+    "name_en": "Bankya"
+  },
+  {
+    "ekatte": "04234",
+    "t_v_m": "с.",
+    "name": "Бистрица",
+    "raion": "68134-23",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Bistritsa"
+  },
+  {
+    "ekatte": "07106",
+    "t_v_m": "с.",
+    "name": "Бусманци",
+    "raion": "68134-14",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Busmantsi"
+  },
+  {
+    "ekatte": "07140",
+    "t_v_m": "гр.",
+    "name": "Бухово",
+    "raion": "68134-22",
+    "kind": 1,
+    "document": 2004,
+    "name_en": "Buhovo"
+  },
+  {
+    "ekatte": "11394",
+    "t_v_m": "с.",
+    "name": "Владая",
+    "raion": "68134-17",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Vladaya"
+  },
+  {
+    "ekatte": "11884",
+    "t_v_m": "с.",
+    "name": "Войнеговци",
+    "raion": "68134-21",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Voynegovtsi"
+  },
+  {
+    "ekatte": "12084",
+    "t_v_m": "с.",
+    "name": "Волуяк",
+    "raion": "68134-20",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Voluyak"
+  },
+  {
+    "ekatte": "14831",
+    "t_v_m": "с.",
+    "name": "Герман",
+    "raion": "68134-23",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "German"
+  },
+  {
+    "ekatte": "16448",
+    "t_v_m": "с.",
+    "name": "Горни Богров",
+    "raion": "68134-22",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Gorni Bogrov"
+  },
+  {
+    "ekatte": "21662",
+    "t_v_m": "с.",
+    "name": "Доброславци",
+    "raion": "68134-21",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Dobroslavtsi"
+  },
+  {
+    "ekatte": "22304",
+    "t_v_m": "с.",
+    "name": "Долни Богров",
+    "raion": "68134-22",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Dolni Bogrov"
+  },
+  {
+    "ekatte": "22472",
+    "t_v_m": "с.",
+    "name": "Долни Пасарел",
+    "raion": "68134-23",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Dolni Pasarel"
+  },
+  {
+    "ekatte": "29150",
+    "t_v_m": "с.",
+    "name": "Железница",
+    "raion": "68134-23",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Zheleznitsa"
+  },
+  {
+    "ekatte": "29204",
+    "t_v_m": "с.",
+    "name": "Желява",
+    "raion": "68134-22",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Zhelyava"
+  },
+  {
+    "ekatte": "29430",
+    "t_v_m": "с.",
+    "name": "Житен",
+    "raion": "68134-21",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Zhiten"
+  },
+  {
+    "ekatte": "32216",
+    "t_v_m": "с.",
+    "name": "Иваняне",
+    "raion": "68134-24",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Ivanyane"
+  },
+  {
+    "ekatte": "35239",
+    "t_v_m": "с.",
+    "name": "Казичене",
+    "raion": "68134-23",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Kazichene"
+  },
+  {
+    "ekatte": "37280",
+    "t_v_m": "с.",
+    "name": "Клисура",
+    "raion": "68134-24",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Klisura"
+  },
+  {
+    "ekatte": "37914",
+    "t_v_m": "с.",
+    "name": "Кокаляне",
+    "raion": "68134-23",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Kokalyane"
+  },
+  {
+    "ekatte": "39791",
+    "t_v_m": "с.",
+    "name": "Кривина",
+    "raion": "68134-23",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Krivina"
+  },
+  {
+    "ekatte": "40436",
+    "t_v_m": "с.",
+    "name": "Кубратово",
+    "raion": "68134-21",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Kubratovo"
+  },
+  {
+    "ekatte": "41010",
+    "t_v_m": "с.",
+    "name": "Кътина",
+    "raion": "68134-21",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Katina"
+  },
+  {
+    "ekatte": "44063",
+    "t_v_m": "с.",
+    "name": "Лозен",
+    "raion": "68134-23",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Lozen"
+  },
+  {
+    "ekatte": "44224",
+    "t_v_m": "с.",
+    "name": "Локорско",
+    "raion": "68134-21",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Lokorsko"
+  },
+  {
+    "ekatte": "46721",
+    "t_v_m": "с.",
+    "name": "Мало Бучино",
+    "raion": "68134-18",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Malo Buchino"
+  },
+  {
+    "ekatte": "48393",
+    "t_v_m": "с.",
+    "name": "Мировяне",
+    "raion": "68134-21",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Mirovyane"
+  },
+  {
+    "ekatte": "49206",
+    "t_v_m": "с.",
+    "name": "Мрамор",
+    "raion": "68134-21",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Mramor"
+  },
+  {
+    "ekatte": "49597",
+    "t_v_m": "с.",
+    "name": "Мърчаево",
+    "raion": "68134-17",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Marchaevo"
+  },
+  {
+    "ekatte": "51250",
+    "t_v_m": "с.",
+    "name": "Негован",
+    "raion": "68134-21",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Negovan"
+  },
+  {
+    "ekatte": "55419",
+    "t_v_m": "с.",
+    "name": "Панчарево",
+    "raion": "68134-23",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Pancharevo"
+  },
+  {
+    "ekatte": "56624",
+    "t_v_m": "с.",
+    "name": "Плана",
+    "raion": "68134-23",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Plana"
+  },
+  {
+    "ekatte": "57011",
+    "t_v_m": "с.",
+    "name": "Подгумер",
+    "raion": "68134-21",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Podgumer"
+  },
+  {
+    "ekatte": "65601",
+    "t_v_m": "с.",
+    "name": "Световрачене",
+    "raion": "68134-21",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Svetovrachene"
+  },
+  {
+    "ekatte": "80409",
+    "t_v_m": "с.",
+    "name": "Чепинци",
+    "raion": "68134-21",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Chepintsi"
+  },
+  {
+    "ekatte": "87401",
+    "t_v_m": "с.",
+    "name": "Яна",
+    "raion": "68134-22",
+    "kind": 3,
+    "document": 2004,
+    "name_en": "Yana"
+  }
+]

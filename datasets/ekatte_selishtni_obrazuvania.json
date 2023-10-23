@@ -1,0 +1,1662 @@
+[
+  {
+    "ekatte": "94015",
+    "kind": 1,
+    "name": "Курортен комплекс \"Златни пясъци\"",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 222,
+    "abc": 1,
+    "name_en": "Kurorten kompleks \"Zlatni pyasatsi\""
+  },
+  {
+    "ekatte": "94023",
+    "kind": 2,
+    "name": "ВЕЦ Долна Бешовица на р. Искър",
+    "area1": "(22023) с. Долна Бешовица, общ. Роман, обл. Враца",
+    "area2": "",
+    "document": 243,
+    "abc": 2,
+    "name_en": "VETS Dolna Beshovitsa na r. Iskar"
+  },
+  {
+    "ekatte": "94037",
+    "kind": 2,
+    "name": "Узунджата",
+    "area1": "(58356) гр. Приморско, общ. Приморско, обл. Бургас",
+    "area2": "",
+    "document": 257,
+    "abc": 3,
+    "name_en": "Uzundzhata"
+  },
+  {
+    "ekatte": "94040",
+    "kind": 1,
+    "name": "Курортен комплекс \"Св. св. Константин и Елена\"",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 222,
+    "abc": 4,
+    "name_en": "Kurorten kompleks \"Sv. sv. Konstantin i Elena\""
+  },
+  {
+    "ekatte": "94085",
+    "kind": 1,
+    "name": "Курортен комплекс \"Международен младежки център - Приморско\"",
+    "area1": "(BGS27) общ. Приморско, обл. Бургас",
+    "area2": "",
+    "document": 222,
+    "abc": 5,
+    "name_en": "Kurorten kompleks \"Mezhdunaroden mladezhki centar - Primorsko\""
+  },
+  {
+    "ekatte": "94099",
+    "kind": 2,
+    "name": "Семково",
+    "area1": "(BLG02) общ. Белица, обл. Благоевград",
+    "area2": "",
+    "document": 1931,
+    "abc": 6,
+    "name_en": "Semkovo"
+  },
+  {
+    "ekatte": "94112",
+    "kind": 2,
+    "name": "Цигов чарк",
+    "area1": "(62004) гр. Ракитово, общ. Ракитово, обл. Пазарджик",
+    "area2": "",
+    "document": 254,
+    "abc": 7,
+    "name_en": "Tsigov chark"
+  },
+  {
+    "ekatte": "94126",
+    "kind": 2,
+    "name": "ДЗС",
+    "area1": "(63427) гр. Русе, общ. Русе, обл. Русе",
+    "area2": "",
+    "document": 246,
+    "abc": 8,
+    "name_en": "DZS"
+  },
+  {
+    "ekatte": "94130",
+    "kind": 2,
+    "name": "Стълпище",
+    "area1": "(47977) с. Мечка, общ. Иваново, обл. Русе",
+    "area2": "",
+    "document": 247,
+    "abc": 9,
+    "name_en": "Stalpishte"
+  },
+  {
+    "ekatte": "94143",
+    "kind": 2,
+    "name": "Кария",
+    "area1": "(83017) гр. Шабла, общ. Шабла, обл. Добрич",
+    "area2": "",
+    "document": 294,
+    "abc": 10,
+    "name_en": "Karia"
+  },
+  {
+    "ekatte": "94157",
+    "kind": 2,
+    "name": "Червенка",
+    "area1": "(81178) гр. Черноморец, общ. Созопол, обл. Бургас",
+    "area2": "",
+    "document": 256,
+    "abc": 11,
+    "name_en": "Chervenka"
+  },
+  {
+    "ekatte": "94160",
+    "kind": 2,
+    "name": "Гладно поле",
+    "area1": "(40227) с. Крушовица, общ. Елин Пелин, обл. София",
+    "area2": "",
+    "document": 262,
+    "abc": 12,
+    "name_en": "Gladno pole"
+  },
+  {
+    "ekatte": "94174",
+    "kind": 2,
+    "name": "Вилна зона \"Крушов баир\"",
+    "area1": "(37798) гр. Козлодуй, общ. Козлодуй, обл. Враца",
+    "area2": "",
+    "document": 259,
+    "abc": 13,
+    "name_en": "Vilna zona \"Krushov bair\""
+  },
+  {
+    "ekatte": "94188",
+    "kind": 2,
+    "name": "Пети километър",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 271,
+    "abc": 14,
+    "name_en": "Peti kilometar"
+  },
+  {
+    "ekatte": "94191",
+    "kind": 2,
+    "name": "Хайдушки поляни",
+    "area1": "(SML31) общ. Смолян, обл. Смолян",
+    "area2": "",
+    "document": 600,
+    "abc": 15,
+    "name_en": "Haydushki polyani"
+  },
+  {
+    "ekatte": "94201",
+    "kind": 2,
+    "name": "Кринчовица",
+    "area1": "(87374) гр. Ямбол, общ. Ямбол, обл. Ямбол",
+    "area2": "",
+    "document": 267,
+    "abc": 16,
+    "name_en": "Krinchovitsa"
+  },
+  {
+    "ekatte": "94215",
+    "kind": 2,
+    "name": "Черешево",
+    "area1": "(PDV39) общ. Кричим, обл. Пловдив",
+    "area2": "",
+    "document": 619,
+    "abc": 17,
+    "name_en": "Chereshevo"
+  },
+  {
+    "ekatte": "94229",
+    "kind": 2,
+    "name": "Перчемлията",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 286,
+    "abc": 18,
+    "name_en": "Perchemliyata"
+  },
+  {
+    "ekatte": "94232",
+    "kind": 2,
+    "name": "Долна Трака",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 286,
+    "abc": 19,
+    "name_en": "Dolna Traka"
+  },
+  {
+    "ekatte": "94246",
+    "kind": 2,
+    "name": "Припек",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 286,
+    "abc": 20,
+    "name_en": "Pripek"
+  },
+  {
+    "ekatte": "94256",
+    "kind": 2,
+    "name": "Орехчето",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 286,
+    "abc": 21,
+    "name_en": "Orehcheto"
+  },
+  {
+    "ekatte": "94263",
+    "kind": 2,
+    "name": "Черешова градина",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 286,
+    "abc": 22,
+    "name_en": "Chereshova gradina"
+  },
+  {
+    "ekatte": "94277",
+    "kind": 2,
+    "name": "Крушова градина",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 286,
+    "abc": 23,
+    "name_en": "Krushova gradina"
+  },
+  {
+    "ekatte": "94280",
+    "kind": 2,
+    "name": "Панорама",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 286,
+    "abc": 24,
+    "name_en": "Panorama"
+  },
+  {
+    "ekatte": "94294",
+    "kind": 2,
+    "name": "Балъм дере",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 25,
+    "name_en": "Balam dere"
+  },
+  {
+    "ekatte": "94304",
+    "kind": 2,
+    "name": "Ментеше",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 26,
+    "name_en": "Menteshe"
+  },
+  {
+    "ekatte": "94318",
+    "kind": 2,
+    "name": "Кочмар",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 27,
+    "name_en": "Kochmar"
+  },
+  {
+    "ekatte": "94321",
+    "kind": 2,
+    "name": "Планова",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 28,
+    "name_en": "Planova"
+  },
+  {
+    "ekatte": "94335",
+    "kind": 2,
+    "name": "Пчелина",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 29,
+    "name_en": "Pchelina"
+  },
+  {
+    "ekatte": "94349",
+    "kind": 2,
+    "name": "Сълзица",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 30,
+    "name_en": "Salzitsa"
+  },
+  {
+    "ekatte": "94352",
+    "kind": 2,
+    "name": "Сотира",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 31,
+    "name_en": "Sotira"
+  },
+  {
+    "ekatte": "94366",
+    "kind": 2,
+    "name": "Боровец-север",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 32,
+    "name_en": "Borovets-sever"
+  },
+  {
+    "ekatte": "94371",
+    "kind": 2,
+    "name": "Боровец-юг",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 33,
+    "name_en": "Borovets-yug"
+  },
+  {
+    "ekatte": "94383",
+    "kind": 2,
+    "name": "Ракитника",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 34,
+    "name_en": "Rakitnika"
+  },
+  {
+    "ekatte": "94397",
+    "kind": 2,
+    "name": "Прибой",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 35,
+    "name_en": "Priboy"
+  },
+  {
+    "ekatte": "94407",
+    "kind": 2,
+    "name": "Зеленика-част",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 36,
+    "name_en": "Zelenika_chast"
+  },
+  {
+    "ekatte": "94410",
+    "kind": 2,
+    "name": "Летище",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 37,
+    "name_en": "Letishte"
+  },
+  {
+    "ekatte": "94424",
+    "kind": 2,
+    "name": "Под селото",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 38,
+    "name_en": "Pod seloto"
+  },
+  {
+    "ekatte": "94438",
+    "kind": 2,
+    "name": "Акчелар",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 39,
+    "name_en": "Akchelar"
+  },
+  {
+    "ekatte": "94441",
+    "kind": 2,
+    "name": "Телевизионна кула",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 40,
+    "name_en": "Televizionna kula"
+  },
+  {
+    "ekatte": "94455",
+    "kind": 2,
+    "name": "Горна трака",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 41,
+    "name_en": "Gorna traka"
+  },
+  {
+    "ekatte": "94469",
+    "kind": 2,
+    "name": "Добрева чешма",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 42,
+    "name_en": "Dobreva cheshma"
+  },
+  {
+    "ekatte": "94472",
+    "kind": 2,
+    "name": "Виница-север",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 43,
+    "name_en": "Vinitsa-sever"
+  },
+  {
+    "ekatte": "94486",
+    "kind": 2,
+    "name": "Ваялар",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 44,
+    "name_en": "Vayalar"
+  },
+  {
+    "ekatte": "94497",
+    "kind": 2,
+    "name": "Траката-разширение",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 45,
+    "name_en": "Trakata-razshirenie"
+  },
+  {
+    "ekatte": "94502",
+    "kind": 2,
+    "name": "Фатрико дере",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 46,
+    "name_en": "Fatriko dere"
+  },
+  {
+    "ekatte": "94513",
+    "kind": 2,
+    "name": "Дели сава",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 47,
+    "name_en": "Deli sava"
+  },
+  {
+    "ekatte": "94527",
+    "kind": 2,
+    "name": "Манастирски рид",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 48,
+    "name_en": "Manastirski rid"
+  },
+  {
+    "ekatte": "94530",
+    "kind": 2,
+    "name": "Бялата чешма и Дъбравата",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 49,
+    "name_en": "Byalata cheshma i Dabravata"
+  },
+  {
+    "ekatte": "94544",
+    "kind": 2,
+    "name": "Ален мак",
+    "area1": "(VAR06) общ. Варна, обл. Варна",
+    "area2": "",
+    "document": 261,
+    "abc": 50,
+    "name_en": "Alen mak"
+  },
+  {
+    "ekatte": "94558",
+    "kind": 2,
+    "name": "XI шахта",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 268,
+    "abc": 51,
+    "name_en": "XI shahta"
+  },
+  {
+    "ekatte": "94561",
+    "kind": 2,
+    "name": "Острицата",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1494,
+    "abc": 52,
+    "name_en": "Ostritsata"
+  },
+  {
+    "ekatte": "94575",
+    "kind": 2,
+    "name": "Сухото дере",
+    "area1": "(32425) с. Изворище, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 268,
+    "abc": 53,
+    "name_en": "Suhoto dere"
+  },
+  {
+    "ekatte": "94589",
+    "kind": 2,
+    "name": "Каптажа",
+    "area1": "(32425) с. Изворище, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 268,
+    "abc": 54,
+    "name_en": "Kaptazha"
+  },
+  {
+    "ekatte": "94592",
+    "kind": 2,
+    "name": "Лозницата",
+    "area1": "(07332) гр. Българово, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 268,
+    "abc": 55,
+    "name_en": "Loznitsata"
+  },
+  {
+    "ekatte": "94602",
+    "kind": 2,
+    "name": "Бадемите",
+    "area1": "(63183) с. Рудник, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 268,
+    "abc": 56,
+    "name_en": "Bademite"
+  },
+  {
+    "ekatte": "94616",
+    "kind": 2,
+    "name": "Пръстницата",
+    "area1": "(06776) с. Брястовец, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 268,
+    "abc": 57,
+    "name_en": "Prastnitsata"
+  },
+  {
+    "ekatte": "94628",
+    "kind": 2,
+    "name": "Брястите",
+    "area1": "(06776) с. Брястовец, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 268,
+    "abc": 58,
+    "name_en": "Bryastite"
+  },
+  {
+    "ekatte": "94633",
+    "kind": 2,
+    "name": "Лозята",
+    "area1": "(06776) с. Брястовец, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 268,
+    "abc": 59,
+    "name_en": "Lozyata"
+  },
+  {
+    "ekatte": "94647",
+    "kind": 2,
+    "name": "Батака",
+    "area1": "(72151) с. Твърдица, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 268,
+    "abc": 60,
+    "name_en": "Bataka"
+  },
+  {
+    "ekatte": "94650",
+    "kind": 2,
+    "name": "Върбицата",
+    "area1": "(72151) с. Твърдица, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 268,
+    "abc": 61,
+    "name_en": "Varbitsata"
+  },
+  {
+    "ekatte": "94664",
+    "kind": 2,
+    "name": "Заслона",
+    "area1": "(21141) с. Димчево, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 268,
+    "abc": 62,
+    "name_en": "Zaslona"
+  },
+  {
+    "ekatte": "94678",
+    "kind": 2,
+    "name": "Край канала",
+    "area1": "(21141) с. Димчево, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 268,
+    "abc": 63,
+    "name_en": "Kray kanala"
+  },
+  {
+    "ekatte": "94681",
+    "kind": 2,
+    "name": "Черниците",
+    "area1": "(47202) с. Маринка, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 268,
+    "abc": 64,
+    "name_en": "Chernitsite"
+  },
+  {
+    "ekatte": "94695",
+    "kind": 2,
+    "name": "Училищното",
+    "area1": "(47202) с. Маринка, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 268,
+    "abc": 65,
+    "name_en": "Uchilishtnoto"
+  },
+  {
+    "ekatte": "94705",
+    "kind": 2,
+    "name": "Трите кладенчета",
+    "area1": "(47202) с. Маринка, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 268,
+    "abc": 66,
+    "name_en": "Trite kladencheta"
+  },
+  {
+    "ekatte": "94719",
+    "kind": 2,
+    "name": "Инцараки",
+    "area1": "(11538) гр. Свети Влас, общ. Несебър, обл. Бургас",
+    "area2": "",
+    "document": 260,
+    "abc": 67,
+    "name_en": "Intsaraki"
+  },
+  {
+    "ekatte": "94722",
+    "kind": 2,
+    "name": "Чолакова чешма",
+    "area1": "(39164) с. Кошарица, общ. Несебър, обл. Бургас",
+    "area2": "",
+    "document": 260,
+    "abc": 68,
+    "name_en": "Cholakova cheshma"
+  },
+  {
+    "ekatte": "94736",
+    "kind": 2,
+    "name": "Янчева поляна",
+    "area1": "(00182) гр. Аксаково, общ. Аксаково, обл. Варна",
+    "area2": "",
+    "document": 266,
+    "abc": 69,
+    "name_en": "Yancheva polyana"
+  },
+  {
+    "ekatte": "94743",
+    "kind": 2,
+    "name": "Терасите",
+    "area1": "(00182) гр. Аксаково, общ. Аксаково, обл. Варна",
+    "area2": "",
+    "document": 266,
+    "abc": 70,
+    "name_en": "Terasite"
+  },
+  {
+    "ekatte": "94753",
+    "kind": 2,
+    "name": "Доброгледски лозя",
+    "area1": "(21587) с. Доброглед, общ. Аксаково, обл. Варна",
+    "area2": "",
+    "document": 266,
+    "abc": 71,
+    "name_en": "Dobrogledski lozya"
+  },
+  {
+    "ekatte": "94767",
+    "kind": 2,
+    "name": "Трите воденици",
+    "area1": "(21988) с. Долище, общ. Аксаково, обл. Варна",
+    "area2": "",
+    "document": 266,
+    "abc": 72,
+    "name_en": "Trite vodenitsi"
+  },
+  {
+    "ekatte": "94770",
+    "kind": 2,
+    "name": "Студен кладенец",
+    "area1": "(53691) с. Орешак, общ. Аксаково, обл. Варна",
+    "area2": "",
+    "document": 266,
+    "abc": 73,
+    "name_en": "Studen kladenets"
+  },
+  {
+    "ekatte": "94784",
+    "kind": 2,
+    "name": "Лозите",
+    "area1": "(37099) с. Кичево, общ. Аксаково, обл. Варна",
+    "area2": "",
+    "document": 266,
+    "abc": 74,
+    "name_en": "Lozite"
+  },
+  {
+    "ekatte": "94798",
+    "kind": 2,
+    "name": "Черноморска панорама",
+    "area1": "(37099) с. Кичево, общ. Аксаково, обл. Варна",
+    "area2": "(54145) с. Осеново, общ. Аксаково, обл. Варна",
+    "document": 266,
+    "abc": 75,
+    "name_en": "Chernomorska panorama"
+  },
+  {
+    "ekatte": "94808",
+    "kind": 2,
+    "name": "Поляните",
+    "area1": "(39459) с. Кранево, общ. Балчик, обл. Добрич",
+    "area2": "",
+    "document": 266,
+    "abc": 76,
+    "name_en": "Polyanite"
+  },
+  {
+    "ekatte": "94811",
+    "kind": 2,
+    "name": "Панорама I",
+    "area1": "(54145) с. Осеново, общ. Аксаково, обл. Варна",
+    "area2": "",
+    "document": 266,
+    "abc": 77,
+    "name_en": "Panorama I"
+  },
+  {
+    "ekatte": "94825",
+    "kind": 2,
+    "name": "Панорама II",
+    "area1": "(54145) с. Осеново, общ. Аксаково, обл. Варна",
+    "area2": "",
+    "document": 266,
+    "abc": 78,
+    "name_en": "Panorama II"
+  },
+  {
+    "ekatte": "94839",
+    "kind": 2,
+    "name": "Панорама III",
+    "area1": "(54145) с. Осеново, общ. Аксаково, обл. Варна",
+    "area2": "",
+    "document": 266,
+    "abc": 79,
+    "name_en": "Panorama III"
+  },
+  {
+    "ekatte": "94842",
+    "kind": 2,
+    "name": "Могилите",
+    "area1": "(37099) с. Кичево, общ. Аксаково, обл. Варна",
+    "area2": "(54145) с. Осеново, общ. Аксаково, обл. Варна",
+    "document": 266,
+    "abc": 80,
+    "name_en": "Mogilite"
+  },
+  {
+    "ekatte": "94856",
+    "kind": 2,
+    "name": "Баш Самоков",
+    "area1": "(27632) гр. Етрополе, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 81,
+    "name_en": "Bash Samokov"
+  },
+  {
+    "ekatte": "94869",
+    "kind": 2,
+    "name": "Чичера",
+    "area1": "(27632) гр. Етрополе, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 82,
+    "name_en": "Chichera"
+  },
+  {
+    "ekatte": "94873",
+    "kind": 2,
+    "name": "Суха река",
+    "area1": "(27632) гр. Етрополе, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 83,
+    "name_en": "Suha reka"
+  },
+  {
+    "ekatte": "94887",
+    "kind": 2,
+    "name": "Райкьовец",
+    "area1": "(27632) гр. Етрополе, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 84,
+    "name_en": "Raykyovets"
+  },
+  {
+    "ekatte": "94890",
+    "kind": 2,
+    "name": "Котката",
+    "area1": "(27632) гр. Етрополе, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 85,
+    "name_en": "Kotkata"
+  },
+  {
+    "ekatte": "94900",
+    "kind": 2,
+    "name": "Горунака",
+    "area1": "(27632) гр. Етрополе, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 86,
+    "name_en": "Gorunaka"
+  },
+  {
+    "ekatte": "94914",
+    "kind": 2,
+    "name": "Хаджирашова чешма",
+    "area1": "(27632) гр. Етрополе, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 87,
+    "name_en": "Hadzhirashova cheshma"
+  },
+  {
+    "ekatte": "94928",
+    "kind": 2,
+    "name": "Рибарника",
+    "area1": "(27632) гр. Етрополе, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 88,
+    "name_en": "Ribarnika"
+  },
+  {
+    "ekatte": "94931",
+    "kind": 2,
+    "name": "Стубела",
+    "area1": "(62582) с. Рибарица, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 89,
+    "name_en": "Stubela"
+  },
+  {
+    "ekatte": "94945",
+    "kind": 2,
+    "name": "Рибарица",
+    "area1": "(62582) с. Рибарица, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 90,
+    "name_en": "Ribaritsa"
+  },
+  {
+    "ekatte": "94959",
+    "kind": 2,
+    "name": "Над язовира",
+    "area1": "(05147) с. Бойковец, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 91,
+    "name_en": "Nad yazovira"
+  },
+  {
+    "ekatte": "94962",
+    "kind": 2,
+    "name": "Кобиля",
+    "area1": "(05147) с. Бойковец, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 92,
+    "name_en": "Kobilya"
+  },
+  {
+    "ekatte": "94976",
+    "kind": 2,
+    "name": "Спиловица",
+    "area1": "(87391) с. Ямна, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 93,
+    "name_en": "Spilovitsa"
+  },
+  {
+    "ekatte": "94984",
+    "kind": 2,
+    "name": "Шарковото",
+    "area1": "(87391) с. Ямна, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 94,
+    "name_en": "Sharkovoto"
+  },
+  {
+    "ekatte": "94993",
+    "kind": 2,
+    "name": "Пашовото",
+    "area1": "(44389) с. Лъга, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 95,
+    "name_en": "Pashovoto"
+  },
+  {
+    "ekatte": "95008",
+    "kind": 2,
+    "name": "Долни дол",
+    "area1": "(44389) с. Лъга, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 96,
+    "name_en": "Dolni dol"
+  },
+  {
+    "ekatte": "95011",
+    "kind": 2,
+    "name": "Манастирското",
+    "area1": "(62582) с. Рибарица, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 97,
+    "name_en": "Manastirskoto"
+  },
+  {
+    "ekatte": "95025",
+    "kind": 2,
+    "name": "Златичора",
+    "area1": "(87391) с. Ямна, общ. Етрополе, обл. София",
+    "area2": "",
+    "document": 272,
+    "abc": 98,
+    "name_en": "Zlatichora"
+  },
+  {
+    "ekatte": "95039",
+    "kind": 2,
+    "name": "Язовир Батак",
+    "area1": "(02837) гр. Батак, общ. Батак, обл. Пазарджик",
+    "area2": "",
+    "document": 255,
+    "abc": 99,
+    "name_en": "Yazovir Batak"
+  },
+  {
+    "ekatte": "95460",
+    "kind": 2,
+    "name": "Брастите - 1",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 142,
+    "name_en": "Brastite - 1"
+  },
+  {
+    "ekatte": "95042",
+    "kind": 2,
+    "name": "Курорт \"Сливенски минерални бани\"",
+    "area1": "(30990) с. Злати войвода, общ. Сливен, обл. Сливен",
+    "area2": "",
+    "document": 1352,
+    "abc": 100,
+    "name_en": "Kurort \"Slivenski mineralni bani\""
+  },
+  {
+    "ekatte": "95056",
+    "kind": 2,
+    "name": "Курорт \"Огняновски минерални бани\"",
+    "area1": "(BLG13) общ. Гърмен, обл. Благоевград",
+    "area2": "",
+    "document": 1369,
+    "abc": 101,
+    "name_en": "Kurort \"Ognyanovski mineralni bani\""
+  },
+  {
+    "ekatte": "95066",
+    "kind": 2,
+    "name": "Кюмбетите",
+    "area1": "(58503) гр. Провадия, общ. Провадия, обл. Варна",
+    "area2": "",
+    "document": 1611,
+    "abc": 102,
+    "name_en": "Kyumbetite"
+  },
+  {
+    "ekatte": "95073",
+    "kind": 2,
+    "name": "Шашкъните",
+    "area1": "(58503) гр. Провадия, общ. Провадия, обл. Варна",
+    "area2": "",
+    "document": 1611,
+    "abc": 103,
+    "name_en": "Shashkanite"
+  },
+  {
+    "ekatte": "95087",
+    "kind": 2,
+    "name": "Фазанарията",
+    "area1": "(58503) гр. Провадия, общ. Провадия, обл. Варна",
+    "area2": "",
+    "document": 1611,
+    "abc": 104,
+    "name_en": "Fazanariyata"
+  },
+  {
+    "ekatte": "95090",
+    "kind": 2,
+    "name": "Солницата",
+    "area1": "(58503) гр. Провадия, общ. Провадия, обл. Варна",
+    "area2": "",
+    "document": 1611,
+    "abc": 105,
+    "name_en": "Solnitsata"
+  },
+  {
+    "ekatte": "95100",
+    "kind": 2,
+    "name": "Индустриална зона Летница",
+    "area1": "(43476) гр. Летница, общ. Летница, обл. Ловеч",
+    "area2": "",
+    "document": 1671,
+    "abc": 106,
+    "name_en": "Industrialna zona Letnitsa"
+  },
+  {
+    "ekatte": "95114",
+    "kind": 2,
+    "name": "Фотоволтаичен парк - Адата",
+    "area1": "(59080) гр. Първомай, общ. Първомай, обл. Пловдив",
+    "area2": "",
+    "document": 1670,
+    "abc": 107,
+    "name_en": "Fotovoltaichen park - Adata"
+  },
+  {
+    "ekatte": "95128",
+    "kind": 2,
+    "name": "Промишлена зона - Искра",
+    "area1": "(32826) с. Искра, общ. Първомай, обл. Пловдив",
+    "area2": "",
+    "document": 1670,
+    "abc": 108,
+    "name_en": "Promishlena zona - Iskra"
+  },
+  {
+    "ekatte": "95131",
+    "kind": 2,
+    "name": "Фотоволтаичен парк - Кунин Ямач",
+    "area1": "(59080) гр. Първомай, общ. Първомай, обл. Пловдив",
+    "area2": "",
+    "document": 1670,
+    "abc": 109,
+    "name_en": "Fotovoltaichen park - Kunin Yamach"
+  },
+  {
+    "ekatte": "95145",
+    "kind": 2,
+    "name": "Фотоволтаичен парк - Чилингирско",
+    "area1": "(59080) гр. Първомай, общ. Първомай, обл. Пловдив",
+    "area2": "",
+    "document": 1670,
+    "abc": 110,
+    "name_en": "Fotovoltaichen park - Chilingirsko"
+  },
+  {
+    "ekatte": "95159",
+    "kind": 2,
+    "name": "Фотоволтаичен парк - Мерата",
+    "area1": "(36230) с. Караджалово, общ. Първомай, обл. Пловдив",
+    "area2": "",
+    "document": 1670,
+    "abc": 111,
+    "name_en": "Fotovoltaichen park - Merata"
+  },
+  {
+    "ekatte": "95162",
+    "kind": 2,
+    "name": "Индустриален парк Шумен",
+    "area1": "(83510) гр. Шумен, общ. Шумен, обл. Шумен",
+    "area2": "",
+    "document": 1676,
+    "abc": 112,
+    "name_en": "Industrialen park Shumen"
+  },
+  {
+    "ekatte": "95176",
+    "kind": 2,
+    "name": "Хоталич",
+    "area1": "(65927) гр. Севлиево, общ. Севлиево, обл. Габрово",
+    "area2": "",
+    "document": 1677,
+    "abc": 113,
+    "name_en": "Hotalich"
+  },
+  {
+    "ekatte": "95181",
+    "kind": 2,
+    "name": "Планински туристически комплекс \"Беклемето\"",
+    "area1": "(02448) с. Балканец, общ. Троян, обл. Ловеч",
+    "area2": "(03486) с. Бели Осъм, общ. Троян, обл. Ловеч",
+    "document": 1688,
+    "abc": 114,
+    "name_en": "Planinski turisticheski kompleks \"Beklemeto\""
+  },
+  {
+    "ekatte": "95193",
+    "kind": 2,
+    "name": "Арапя",
+    "area1": "(48619) гр. Царево, общ. Царево, обл. Бургас",
+    "area2": "",
+    "document": 1699,
+    "abc": 115,
+    "name_en": "Arapya"
+  },
+  {
+    "ekatte": "95203",
+    "kind": 2,
+    "name": "Боруна",
+    "area1": "(48619) гр. Царево, общ. Царево, обл. Бургас",
+    "area2": "",
+    "document": 1695,
+    "abc": 116,
+    "name_en": "Boruna"
+  },
+  {
+    "ekatte": "95217",
+    "kind": 2,
+    "name": "Диньов гьол",
+    "area1": "(48619) гр. Царево, общ. Царево, обл. Бургас",
+    "area2": "",
+    "document": 1696,
+    "abc": 117,
+    "name_en": "Dinyov gyol"
+  },
+  {
+    "ekatte": "95220",
+    "kind": 2,
+    "name": "Нестинарка",
+    "area1": "(48619) гр. Царево, общ. Царево, обл. Бургас",
+    "area2": "",
+    "document": 1698,
+    "abc": 118,
+    "name_en": "Nestinarka"
+  },
+  {
+    "ekatte": "95234",
+    "kind": 2,
+    "name": "Оазис",
+    "area1": "(44094) с. Лозенец, общ. Царево, обл. Бургас",
+    "area2": "",
+    "document": 1697,
+    "abc": 119,
+    "name_en": "Oazis"
+  },
+  {
+    "ekatte": "95248",
+    "kind": 2,
+    "name": "Тарфа",
+    "area1": "(44094) с. Лозенец, общ. Царево, обл. Бургас",
+    "area2": "",
+    "document": 1700,
+    "abc": 120,
+    "name_en": "Tarfa"
+  },
+  {
+    "ekatte": "95251",
+    "kind": 2,
+    "name": "Севлиевски лозя",
+    "area1": "(65927) гр. Севлиево, общ. Севлиево, обл. Габрово",
+    "area2": "",
+    "document": 1701,
+    "abc": 121,
+    "name_en": "Sevlievski lozya"
+  },
+  {
+    "ekatte": "95265",
+    "kind": 2,
+    "name": "Чифлика",
+    "area1": "(65927) гр. Севлиево, общ. Севлиево, обл. Габрово",
+    "area2": "",
+    "document": 1701,
+    "abc": 122,
+    "name_en": "Chiflika"
+  },
+  {
+    "ekatte": "95279",
+    "kind": 2,
+    "name": "\"Кунино Енерджи\" - АД, Сградоцентрала",
+    "area1": "(40645) с. Кунино, общ. Роман, обл. Враца",
+    "area2": "",
+    "document": 1704,
+    "abc": 123,
+    "name_en": "\"Kunino Enerdzhi\" - AD, Sgradotsentrala"
+  },
+  {
+    "ekatte": "95282",
+    "kind": 2,
+    "name": "\"Кунино Енерджи\" - АД, Бетонов възел",
+    "area1": "(40645) с. Кунино, общ. Роман, обл. Враца",
+    "area2": "",
+    "document": 1704,
+    "abc": 124,
+    "name_en": "\"Kunino Enerdzhi\" - AD, Betonov vazel"
+  },
+  {
+    "ekatte": "95296",
+    "kind": 2,
+    "name": "Индустриална зона Куклен",
+    "area1": "(40467) гр. Куклен, общ. Куклен, обл. Пловдив",
+    "area2": "",
+    "document": 1705,
+    "abc": 125,
+    "name_en": "Industrialna zona Kuklen"
+  },
+  {
+    "ekatte": "95306",
+    "kind": 2,
+    "name": "Курортен комплекс Върбица",
+    "area1": "(SHU10) общ. Върбица, обл. Шумен",
+    "area2": "",
+    "document": 1810,
+    "abc": 126,
+    "name_en": "Kurorten kompleks Varbitsa"
+  },
+  {
+    "ekatte": "95312",
+    "kind": 2,
+    "name": "Пристанище",
+    "area1": "(56397) с. Пиргово, общ. Иваново, обл. Русе",
+    "area2": "",
+    "document": 1815,
+    "abc": 127,
+    "name_en": "Pristanishte"
+  },
+  {
+    "ekatte": "95323",
+    "kind": 2,
+    "name": "Помпена станция",
+    "area1": "(56397) с. Пиргово, общ. Иваново, обл. Русе",
+    "area2": "",
+    "document": 1815,
+    "abc": 128,
+    "name_en": "Pompena stantsia"
+  },
+  {
+    "ekatte": "95337",
+    "kind": 2,
+    "name": "Индустриална зона Марица",
+    "area1": "(03839) с. Бенковски, общ. Марица, обл. Пловдив",
+    "area2": "(78080) с. Царацово, общ. Марица, обл. Пловдив",
+    "document": 1814,
+    "abc": 129,
+    "name_en": "Industrialna zona Maritsa"
+  },
+  {
+    "ekatte": "95340",
+    "kind": 2,
+    "name": "Бизнес парк Бургас 1",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 130,
+    "name_en": "Biznes park Burgas 1"
+  },
+  {
+    "ekatte": "95354",
+    "kind": 2,
+    "name": "Бизнес парк Бургас 2",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 131,
+    "name_en": "Biznes park Burgas 2"
+  },
+  {
+    "ekatte": "95368",
+    "kind": 2,
+    "name": "Бизнес парк Бургас 3",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 132,
+    "name_en": "Biznes park Burgas 3"
+  },
+  {
+    "ekatte": "95371",
+    "kind": 2,
+    "name": "Бизнес парк Бургас 4",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 133,
+    "name_en": "Biznes park Burgas 4"
+  },
+  {
+    "ekatte": "95385",
+    "kind": 2,
+    "name": "Бизнес парк Бургас 5",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 134,
+    "name_en": "Biznes park Burgas 5"
+  },
+  {
+    "ekatte": "95399",
+    "kind": 2,
+    "name": "Фотоволтаичен парк Мочура",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 135,
+    "name_en": "Fotovoltaichen park Mochura"
+  },
+  {
+    "ekatte": "95409",
+    "kind": 2,
+    "name": "Бизнес парк Сарафово",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 136,
+    "name_en": "Biznes park Sarafovo"
+  },
+  {
+    "ekatte": "95412",
+    "kind": 2,
+    "name": "Бизнес парк Меден рудник",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 137,
+    "name_en": "Biznes park Meden rudnik"
+  },
+  {
+    "ekatte": "95426",
+    "kind": 2,
+    "name": "Бизнес парк Крайморие",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 138,
+    "name_en": "Biznes park Kraymorie"
+  },
+  {
+    "ekatte": "95438",
+    "kind": 2,
+    "name": "Рибарско селище",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 139,
+    "name_en": "Ribarsko selishte"
+  },
+  {
+    "ekatte": "95443",
+    "kind": 2,
+    "name": "Птицата",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 140,
+    "name_en": "Ptitsata"
+  },
+  {
+    "ekatte": "95457",
+    "kind": 2,
+    "name": "Шилото",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 141,
+    "name_en": "Shiloto"
+  },
+  {
+    "ekatte": "95474",
+    "kind": 2,
+    "name": "Брастите - 2",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 143,
+    "name_en": "Brastite - 2"
+  },
+  {
+    "ekatte": "95488",
+    "kind": 2,
+    "name": "Каменица - Изворите",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 144,
+    "name_en": "Kamenitsa - Izvorite"
+  },
+  {
+    "ekatte": "95491",
+    "kind": 2,
+    "name": "Тополите",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 145,
+    "name_en": "Topolite"
+  },
+  {
+    "ekatte": "95501",
+    "kind": 2,
+    "name": "Черни дол",
+    "area1": "(34120) с. Елешница, общ. Елин Пелин, обл. София",
+    "area2": "",
+    "document": 1854,
+    "abc": 146,
+    "name_en": "Cherni dol"
+  },
+  {
+    "ekatte": "95515",
+    "kind": 2,
+    "name": "Росенец",
+    "area1": "(07079) гр. Бургас, общ. Бургас, обл. Бургас",
+    "area2": "",
+    "document": 1821,
+    "abc": 147,
+    "name_en": "Rosenets"
+  },
+  {
+    "ekatte": "95529",
+    "kind": 2,
+    "name": "Пирин",
+    "area1": "(61813) гр. Разлог, общ. Разлог, обл. Благоевград",
+    "area2": "",
+    "document": 1822,
+    "abc": 148,
+    "name_en": "Pirin"
+  },
+  {
+    "ekatte": "95532",
+    "kind": 2,
+    "name": "Шато Бургозоне",
+    "area1": "(54020) гр. Оряхово, общ. Оряхово, обл. Враца",
+    "area2": "",
+    "document": 1823,
+    "abc": 149,
+    "name_en": "Shato Burgozone"
+  },
+  {
+    "ekatte": "95546",
+    "kind": 2,
+    "name": "Китка",
+    "area1": "(BGS18) общ. Руен, обл. Бургас",
+    "area2": "",
+    "document": 1851,
+    "abc": 150,
+    "name_en": "Kitka"
+  },
+  {
+    "ekatte": "95553",
+    "kind": 2,
+    "name": "Върбите",
+    "area1": "(BLG28) общ. Кресна, обл. Благоевград",
+    "area2": "",
+    "document": 1861,
+    "abc": 151,
+    "name_en": "Varbite"
+  },
+  {
+    "ekatte": "95563",
+    "kind": 2,
+    "name": "Балабанчево",
+    "area1": "(70247) гр. Сунгурларе, общ. Сунгурларе, обл. Бургас",
+    "area2": "",
+    "document": 1880,
+    "abc": 152,
+    "name_en": "Balabanchevo"
+  },
+  {
+    "ekatte": "95577",
+    "kind": 2,
+    "name": "Каменско",
+    "area1": "(47096) с. Манолич, общ. Сунгурларе, обл. Бургас",
+    "area2": "",
+    "document": 1880,
+    "abc": 153,
+    "name_en": "Kamensko"
+  },
+  {
+    "ekatte": "95580",
+    "kind": 2,
+    "name": "Черноморска панорама Ювез",
+    "area1": "(37099) с. Кичево, общ. Аксаково, обл. Варна",
+    "area2": "",
+    "document": 1884,
+    "abc": 154,
+    "name_en": "Chernomorska panorama Yuvez"
+  },
+  {
+    "ekatte": "95594",
+    "kind": 2,
+    "name": "Хълмовете на Плана",
+    "area1": "(65231) гр. Самоков, общ. Самоков, обл. София",
+    "area2": "",
+    "document": 1920,
+    "abc": 155,
+    "name_en": "Halmovete na Plana"
+  },
+  {
+    "ekatte": "95604",
+    "kind": 2,
+    "name": "Туристически комплекс Армира",
+    "area1": "(32024) гр. Ивайловград, общ. Ивайловград, обл. Хасково",
+    "area2": "",
+    "document": 1986,
+    "abc": 156,
+    "name_en": "Turisticheski kompleks Armira"
+  },
+  {
+    "ekatte": "95618",
+    "kind": 2,
+    "name": "Жабокрек",
+    "area1": "(62671) гр. Рила, общ. Рила, обл. Кюстендил",
+    "area2": "",
+    "document": 1998,
+    "abc": 157,
+    "name_en": "Zhabokrek"
+  },
+  {
+    "ekatte": "95621",
+    "kind": 2,
+    "name": "Кичево – север",
+    "area1": "(37099) с. Кичево, общ. Аксаково, обл. Варна",
+    "area2": "",
+    "document": 2003,
+    "abc": 158,
+    "name_en": "Kichevo – sever"
+  },
+  {
+    "ekatte": "96007",
+    "kind": 2,
+    "name": "Равно расте",
+    "area1": "(34120) с. Елешница, общ. Елин Пелин, обл. София",
+    "area2": "",
+    "document": 1854,
+    "abc": 159,
+    "name_en": "Ravno raste"
+  },
+  {
+    "ekatte": "96147",
+    "kind": 2,
+    "name": "Побит камък",
+    "area1": "(52012) с. Нови хан, общ. Елин Пелин, обл. София",
+    "area2": "",
+    "document": 1854,
+    "abc": 160,
+    "name_en": "Pobit kamak"
+  },
+  {
+    "ekatte": "96462",
+    "kind": 2,
+    "name": "Къмпинг – Добруджа",
+    "area1": "(83017) гр. Шабла, общ. Шабла, обл. Добрич",
+    "area2": "",
+    "document": 1962,
+    "abc": 161,
+    "name_en": "Kamping – Dobrudzha"
+  },
+  {
+    "ekatte": "98212",
+    "kind": 1,
+    "name": "Курортен комплекс \"Слънчев бряг\"",
+    "area1": "(BGS15) общ. Несебър, обл. Бургас",
+    "area2": "",
+    "document": 222,
+    "abc": 162,
+    "name_en": "Kurorten kompleks \"Slanchev bryag\""
+  },
+  {
+    "ekatte": "98226",
+    "kind": 1,
+    "name": "Курортен комплекс \"Боровец\"",
+    "area1": "(SFO39) общ. Самоков, обл. София",
+    "area2": "",
+    "document": 222,
+    "abc": 163,
+    "name_en": "Kurorten kompleks \"Borovets\""
+  },
+  {
+    "ekatte": "98230",
+    "kind": 1,
+    "name": "Курортен комплекс \"Пампорово\"",
+    "area1": "(SML31) общ. Смолян, обл. Смолян",
+    "area2": "(SML38) общ. Чепеларе, обл. Смолян",
+    "document": 222,
+    "abc": 164,
+    "name_en": "Kurorten kompleks \"Pamporovo\""
+  },
+  {
+    "ekatte": "98260",
+    "kind": 1,
+    "name": "Ваканционно селище \"Дюни\"",
+    "area1": "(BGS21) общ. Созопол, обл. Бургас",
+    "area2": "",
+    "document": 222,
+    "abc": 165,
+    "name_en": "Vakantsionno selishte \"Dyuni\""
+  },
+  {
+    "ekatte": "99958",
+    "kind": 1,
+    "name": "Курортен комплекс \"Албена\"",
+    "area1": "(DOB03) общ. Балчик, обл. Добрич",
+    "area2": "",
+    "document": 222,
+    "abc": 166,
+    "name_en": "Kurorten kompleks \"Albena\""
+  }
+]

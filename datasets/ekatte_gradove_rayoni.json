@@ -1,0 +1,212 @@
+[
+  {
+    "raion": "10135-05",
+    "name": "Аспарухово",
+    "name_en": "Asparuhovo",
+    "document": 21
+  },
+  {
+    "raion": "68134-24",
+    "name": "Банкя",
+    "name_en": "Bankya",
+    "document": 21
+  },
+  {
+    "raion": "68134-17",
+    "name": "Витоша",
+    "name_en": "Vitosha",
+    "document": 21
+  },
+  {
+    "raion": "10135-04",
+    "name": "Владислав Варненчик",
+    "name_en": "Vladislav Varnenchik",
+    "document": 21
+  },
+  {
+    "raion": "68134-20",
+    "name": "Връбница",
+    "name_en": "Vrabnitsa",
+    "document": 21
+  },
+  {
+    "raion": "68134-03",
+    "name": "Възраждане",
+    "name_en": "Vazrazhdane",
+    "document": 21
+  },
+  {
+    "raion": "56784-03",
+    "name": "Западен",
+    "name_en": "Zapaden",
+    "document": 21
+  },
+  {
+    "raion": "68134-08",
+    "name": "Изгрев",
+    "name_en": "Izgrev",
+    "document": 21
+  },
+  {
+    "raion": "56784-02",
+    "name": "Източен",
+    "name_en": "Iztochen",
+    "document": 21
+  },
+  {
+    "raion": "68134-12",
+    "name": "Илинден",
+    "name_en": "Ilinden",
+    "document": 21
+  },
+  {
+    "raion": "68134-14",
+    "name": "Искър",
+    "name_en": "Iskar",
+    "document": 21
+  },
+  {
+    "raion": "68134-11",
+    "name": "Красна поляна",
+    "name_en": "Krasna polyana",
+    "document": 21
+  },
+  {
+    "raion": "68134-02",
+    "name": "Красно село",
+    "name_en": "Krasno selo",
+    "document": 21
+  },
+  {
+    "raion": "68134-22",
+    "name": "Кремиковци",
+    "name_en": "Kremikovtsi",
+    "document": 21
+  },
+  {
+    "raion": "68134-09",
+    "name": "Лозенец",
+    "name_en": "Lozenets",
+    "document": 21
+  },
+  {
+    "raion": "68134-19",
+    "name": "Люлин",
+    "name_en": "Lyulin",
+    "document": 21
+  },
+  {
+    "raion": "10135-03",
+    "name": "Младост",
+    "name_en": "Mladost",
+    "document": 21
+  },
+  {
+    "raion": "68134-15",
+    "name": "Младост",
+    "name_en": "Mladost",
+    "document": 21
+  },
+  {
+    "raion": "68134-13",
+    "name": "Надежда",
+    "name_en": "Nadezhda",
+    "document": 21
+  },
+  {
+    "raion": "68134-21",
+    "name": "Нови Искър",
+    "name_en": "Novi Iskar",
+    "document": 21
+  },
+  {
+    "raion": "68134-04",
+    "name": "Оборище",
+    "name_en": "Oborishte",
+    "document": 21
+  },
+  {
+    "raion": "68134-18",
+    "name": "Овча купел",
+    "name_en": "Ovcha kupel",
+    "document": 21
+  },
+  {
+    "raion": "10135-01",
+    "name": "Одесос",
+    "name_en": "Odesos",
+    "document": 21
+  },
+  {
+    "raion": "68134-23",
+    "name": "Панчарево",
+    "name_en": "Pancharevo",
+    "document": 21
+  },
+  {
+    "raion": "68134-06",
+    "name": "Подуяне",
+    "name_en": "Poduyane",
+    "document": 21
+  },
+  {
+    "raion": "10135-02",
+    "name": "Приморски",
+    "name_en": "Primorski",
+    "document": 21
+  },
+  {
+    "raion": "56784-04",
+    "name": "Северен",
+    "name_en": "Severen",
+    "document": 21
+  },
+  {
+    "raion": "68134-05",
+    "name": "Сердика",
+    "name_en": "Serdika",
+    "document": 21
+  },
+  {
+    "raion": "68134-07",
+    "name": "Слатина",
+    "name_en": "Slatina",
+    "document": 21
+  },
+  {
+    "raion": "68134-01",
+    "name": "Средец",
+    "name_en": "Sredets",
+    "document": 21
+  },
+  {
+    "raion": "68134-16",
+    "name": "Студентски",
+    "name_en": "Studentski",
+    "document": 21
+  },
+  {
+    "raion": "56784-06",
+    "name": "Тракия",
+    "name_en": "Trakia",
+    "document": 21
+  },
+  {
+    "raion": "68134-10",
+    "name": "Триадица",
+    "name_en": "Triaditsa",
+    "document": 21
+  },
+  {
+    "raion": "56784-01",
+    "name": "Централен",
+    "name_en": "Tsentralen",
+    "document": 21
+  },
+  {
+    "raion": "56784-05",
+    "name": "Южен",
+    "name_en": "Yuzhen",
+    "document": 21
+  }
+]

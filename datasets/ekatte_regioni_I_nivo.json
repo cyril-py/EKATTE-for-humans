@@ -1,0 +1,16 @@
+[
+  {
+    "region": "BG3",
+    "nuts1": "BG3",
+    "name": "район \"Северна и Югоизточна България\"",
+    "name_en": "region \"Severna i Yugoiztochna Bulgaria\"",
+    "document": 1483
+  },
+  {
+    "region": "BG4",
+    "nuts1": "BG4",
+    "name": "район \"Югозападна и Южна централна България\"",
+    "name_en": "region \"Yugozapadna i Yuzhna tsentralna Bulgaria\"",
+    "document": 1483
+  }
+]
